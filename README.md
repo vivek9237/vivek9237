@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek9237
 - 👀 I’m interested in Java projects.
-- 🌱 I’m currently into Product Management.
+- 🌱 I’m currently into Identity and Access Management.
 - 💞️ I’m looking to collaborate on any project based on Java/Javascript/Python.
 - 📫 How to reach me - vivek9237@protonmail.com
 
