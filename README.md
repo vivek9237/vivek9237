@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java projects.
 - 🌱 I’m currently into Identity and Access Management.
 - 💞️ I’m looking to collaborate on any project based on Java/Javascript/Python.
-- 📫 How to reach me - vivek9237@protonmail.com
+- 📫 How to reach me - vivek.ku.mohanty@gmail.com
 
 <!---
 vivek9237/vivek9237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
