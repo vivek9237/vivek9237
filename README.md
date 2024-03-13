@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vivek9237
 - 📫 How to reach me - vivek.ku.mohanty@gmail.com
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9237&count_private=true&show_icons=true&theme=nightowl)](https://github.com/vivek9237?tab=repositories)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9237&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9237&langs_count=10&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9237&langs_count=10&layout=compact&theme=nightowl)](https://github.com/vivek9237?tab=repositories)
 <!---
 - 👀 I’m interested in Java projects.
 - 🌱 I’m currently into Identity and Access Management.
