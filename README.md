@@ -1,15 +1,31 @@
-- 👋 Hi, I’m @vivek9237
-- 📫 How to reach me - vivek9237@protonmail.com
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9237&count_private=true&show_icons=true&theme=nightowl)](https://github.com/vivek9237?tab=repositories)
+![](https://komarev.com/ghpvc/?username=vivek9237&color=brightgreen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9237&langs_count=10&layout=compact&theme=nightowl)](https://github.com/vivek9237?tab=repositories)
-<!---
-- 👀 I’m interested in Java projects.
-- 🌱 I’m currently into Identity and Access Management.
-- 💞️ I’m looking to collaborate on any project based on Java/Javascript/Python.
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 🥅 2024 Goals: Learn more about docker.
 
+### Connect With Me:
 
-vivek9237/vivek9237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek9237/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.ku.mohanty@gmail.com)
+
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek9237&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vivek Mohanty's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9237&theme=algolia" alt="vivek9237" />
+</p>
+
+---
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9237&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
