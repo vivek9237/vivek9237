@@ -11,8 +11,8 @@
 
 ### Connect With Me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek9237/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.ku.mohanty@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/vivek9237-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek9237/)
+[![Mail Badge](https://img.shields.io/badge/vivek.ku.mohanty@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.ku.mohanty@gmail.com)
 
 ### My Github Stats:
 
