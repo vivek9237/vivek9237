@@ -27,6 +27,3 @@
 [![Mail Badge](https://img.shields.io/badge/vivek.ku.mohanty@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.ku.mohanty@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=vivek9237&color=brightgreen)
-
-![](https://komarev.com/ghpvc/?username=vivek9237jsonvalidator&color=brightblue)
-
